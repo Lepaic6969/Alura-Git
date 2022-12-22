@@ -1,0 +1,7 @@
+cd -> Cambiar de directorio.
+pwd -> Me indica en que ruta estoy actualmente.
+ls -> Me muestra los archivos de la ruta en la que estoy.
+git init -> Inicializo mi repositorio con las versiones de mis archivos.
+git status -> Muestra los cambios realizados en nuestros archivos a los cuales aún no les hacemos seguimiento.
+git add archivo.extension -> Con esto le doy seguimiento a mi archivo.
+git commit -m "mensaje" -> Agregar los cambios que han tenido mis archivos.
